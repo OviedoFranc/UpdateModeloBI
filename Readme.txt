@@ -6,9 +6,9 @@ En data Se encuentran los scripts para la carga y transformación del Modelo BI
 
 ## Fotos
 
-![DER sin transformar](./DER.jpeg?raw=true)
+![DER sin transformar](DER.jpeg)
 
-![DER Modelo BI](./DER_BI.jpeg?raw=true)
+![DER Modelo BI](DER_BI.jpeg)
 
 ## Documentos importantes
 - 📄 [Estrategia (PDF)](./estrategia.pdf)
